@@ -5,12 +5,10 @@ coordinator : [Harshil-Ramani](https://github.com/Harshil-Ramani/ANN-Playground)
 Watch the demo on YouTube : [ANN-Playground](https://www.youtube.com/watch?v=JFApp-w0xGA)
 
 
-# Prerequisites
-
 
 # Run the Application
-Fronted - npm run dev
-Backend - nodemon app.js
+- Fronted - npm run dev
+- Backend - nodemon app.js
 
 # Configure ANN 
 - **Set Batch Size:** &nbsp; Enter the desired batch size.

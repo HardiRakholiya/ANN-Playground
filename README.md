@@ -19,7 +19,7 @@ Watch the demo on YouTube : [ANN-Playground](https://www.youtube.com/watch?v=JFA
 - **Manage Hidden Layers:** &nbsp; Add or remove hidden layers as needed.
 - **Manage Neurons:** &nbsp; Increase or decrease the number of neurons in each hidden layer.
 - **Select Activation Functions:** &nbsp; Choose activation functions for each hidden layer (the last layer uses softmax).
-- **Selet Datapoint View:**&nbsp; Train , Test or Both.
+- **Select Datapoint View:**&nbsp; Train , Test or Both.
 
 
 # Classification of Default DataSet

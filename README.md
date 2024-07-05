@@ -43,7 +43,7 @@ User can Login.
 
 ![login](https://github.com/HardiRakholiya/ANN-Playground/assets/132381945/546aa86c-350f-4fb4-b1ca-ef64577c9fea)
 
-# upload userDataSet
+# Upload userDataSet
 User can also upload their own dataset as a .csv file. The file should include columns labeled x1, x2, and label, and train it just like the default dataset.
 
 ![upload](https://github.com/HardiRakholiya/ANN-Playground/assets/132381945/b80a2fd1-ed29-4583-b578-e5001e913d75)

@@ -1,5 +1,7 @@
 Coordinator : [Harshil-Ramani](https://github.com/Harshil-Ramani/ANN-Playground)
 # ANN-Playground
+- A visualization tool for artificial neural networks that enables users to learn and understand ANN through classification tasks.
+- Technologies Used: React, ExpressJS, MongoDB
 
 # Demo 
 Watch the demo on YouTube : [ANN-Playground](https://www.youtube.com/watch?v=JFApp-w0xGA)

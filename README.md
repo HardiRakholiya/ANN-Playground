@@ -23,7 +23,7 @@ Watch the demo on YouTube : [ANN-Playground](https://www.youtube.com/watch?v=JFA
 
 
 # Classification of Default DataSet
-you can press the step button to perform each epoch one by one, or press the play button to run them quickly.The classification results are displayed in real-time on the graph.
+You can press the step button to perform each epoch one by one, or press the play button to run them quickly. The classification results are displayed in real-time on the graph.
 Hover to view weights and biases. Red and blue links represent negative and positive weights respectively, with link width indicating the weight's value.
 
 ![Classify Default](https://github.com/HardiRakholiya/ANN-Playground/assets/132381945/752f5ed1-4b30-410b-9245-012beb62f3b6)

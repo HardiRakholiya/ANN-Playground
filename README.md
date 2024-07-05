@@ -24,7 +24,7 @@ Backend - nodemon app.js
 - **Selet Datapoint View:**&nbsp; Train , Test or Both.
 
 
-# Classify Default DataSet
+# Classification of Default DataSet
 you can press the step button to perform each epoch one by one, or press the play button to run them quickly.The classification results are displayed in real-time on the graph.
 Hover to view weights and biases. Red and blue links represent negative and positive weights respectively, with link width indicating the weight's value.
 

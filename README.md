@@ -1,4 +1,4 @@
-coordinator : [Harshil-Ramani](https://github.com/Harshil-Ramani/ANN-Playground)
+Coordinator : [Harshil-Ramani](https://github.com/Harshil-Ramani/ANN-Playground)
 # ANN-Playground
 
 # Demo 
